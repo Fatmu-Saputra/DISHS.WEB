@@ -303,6 +303,10 @@ footer .visit a {
   margin: 0.6rem;
 }
 
+footer .visit i .fa-brands.fa-github.fa-xl {
+  size: 99999rem;
+}
+
 footer .visit a:hover {
   color: var(--bg);
 }
